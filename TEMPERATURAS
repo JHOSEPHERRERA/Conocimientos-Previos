@@ -1,0 +1,5 @@
+Celsius = int(input('Ingrese el valor de grados celsius:'))
+
+Farenheit = Celsius * 1.8 + 32
+
+print('La conversión de grados celcius (', Celsius, ') a grados fahrenheit es = ', Farenheit)
