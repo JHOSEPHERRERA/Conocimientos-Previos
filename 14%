@@ -1,0 +1,10 @@
+camisa = 35.000
+pantalon = 75.000 
+celular = 900.000
+subtotal = camisa + pantalon 
+total_compra= camisa + pantalon + celular 
+descuento = 14/100 * total_compra 
+
+print('El subtotal de la camisa y pantalon es:',subtotal,)
+print('El descuento de la compra es : ', descuento)
+print('El total de la compra en el almacen costa azul y gasto de compra fue de : ', total_compra)
