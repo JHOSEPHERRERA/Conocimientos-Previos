@@ -1,0 +1,6 @@
+Peso_KG = float(input('Digite su peso en kg : '))
+Altura_CM= float(input('Dijite su Altura : '))
+m2 = Altura_CM * Altura_CM 
+imc = Peso_KG / m2 
+
+print('Su IMC (ÍNDICE DE MASA CORPORAL) es :', imc )
