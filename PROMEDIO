@@ -1,0 +1,8 @@
+Nota_1 = float(input('Dijite la primera nota : '))
+Nota_2 = float(input('Dijite la segunda nota : '))
+Nota_3 = float(input('Dijite la tercera nota : '))
+Nota_4 = float(input('Dijite la cuarta nota : '))
+Nota_5 = float(input('Dijite la quinta nota : '))
+ingles = Nota_1 + Nota_2 + Nota_3 + Nota_4 + Nota_5 / 5
+
+print('el Promedio de Sus 5 notas en Ingles fue de : ', ingles)
